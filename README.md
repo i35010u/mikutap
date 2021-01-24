@@ -1,7 +1,5 @@
 # mikutap
-A Mainland China friendly and independent version extracted from https://aidn.jp/mikutap  
-   
-![](https://i.loli.net/2017/12/23/5a3e0812758da.gif)  
+A special version extracted from https://aidn.jp/mikutap  
 
 # 致所有自行编辑修改的人
 
@@ -16,19 +14,7 @@ A Mainland China friendly and independent version extracted from https://aidn.jp
 请参见下方许可证要求联系原作者，谢谢
 
 # 为什么要做这个  
-因为很有趣，觉得应该分享给大家，降低国内用户访问的成本  
-Related: https://www.v2ex.com/t/403054#reply0    
-
-# 修改说明  
-- 为国内用户适配了合适的CDN
-- 进行了汉化
-- 移除了社交分享按钮
-- 移除了原作者的Google Analysis
-- 移除了页面上部分属性
-- 增加了作品来源说明
-
-# @TODO
-- ~~使用JSDelivr分发，并minify~~（由于投毒事件计划取消，详细请见 https://www.v2ex.com/t/403110 ）
+自己用用
 
 # 版权说明  
 遵循原作者的说明，作品仅用于非盈利的公共使用用途，无需告知  
@@ -40,9 +26,9 @@ daniwell@aidn.jp
 ※ エグジットチューンズ管理楽曲（「Nyan Cat」や「ねこみみスイッチ」など）の商用利用につきましては、下記お問い合わせ窓口よりご連絡ください。
 http://exittunes.com/license/
 ```
-由于违规使用本repo带来的后果HFIProgramming不承担结果  
+由于违规使用本repo带来的后果i35010u不承担结果  
 
 # DEMO  
 
-https://hfiprogramming.github.io/mikutap/
+https://i35010u.tk/mikutap/
 
