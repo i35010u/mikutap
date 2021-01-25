@@ -30,5 +30,4 @@ http://exittunes.com/license/
 
 # DEMO  
 
-https://i35010u.tk/mikutap/
-
+http://i35010u.tk/mikutap/
